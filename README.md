@@ -1,19 +1,53 @@
-<h1 align="center">Hi, I'm Giganius Revo</h1>
-<h3 align="center">Computer Science Student at Gadjah Mada University & a passionate Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Giganius Revo</h1>
+<h3 align="center">Computer Science Student at UGM | Frontend Developer</h3>
 
-- 📫 How to reach me **giganiusrevo@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/giganiusrevo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giganiusrevo" height="30" width="40" /></a>
-<a href="https://instagram.com/giganiusrevo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giganiusrevo" height="30" width="40" /></a>
+## 👨‍💻 About Me
+
+🎓 Computer Science student passionate about building modern, scalable web applications.  
+🚀 Currently deepening my expertise in **Frontend Development**.  
+💡 I enjoy crafting clean UI, responsive design systems, and intuitive user experiences.  
+🛠️ Experienced in developing production-ready web platforms for real-world events and organizations.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,git" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigvo&show_icons=true&locale=en&layout=compact" alt="gigvo" /></p>
+## 🚀 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gigvo&show_icons=true&locale=en" alt="gigvo" /></p>
+| Project | Description | Live Website |
+|----------|-------------|-------------|
+| **OmahTI Official Website** | The official website of OmahTI UGM organization. Built to represent the organization digitally, manage structured content, and showcase portfolios. | 🌐 https://www.omahti.web.id/ |
+| **OmahTI Academy** | Web platform for an IT mini bootcamp program. Designed to manage content and provide a seamless digital learning experience. | 🌐 https://academy.omahti.web.id/ |
+| **Malam Apresiasi MIPA 2025** | Event website featuring voting functionality and structured information system for participants. | 🌐 https://www.malpres.com/ |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gigvo&" alt="gigvo" /></p>
+---
+
+
+<p align="center">
+  <img height="160em" src="https://streak-stats.demolab.com?user=Gigvo&theme=default&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/giganiusrevo/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="http://instagram.com/giganiusrevo">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+---
+
