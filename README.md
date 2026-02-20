@@ -25,8 +25,8 @@
 | Project | Description | Live Website |
 |----------|-------------|-------------|
 | **OmahTI Official Website** | The official website of OmahTI UGM organization. Built to represent the organization digitally, manage structured content, and showcase portfolios. | 🌐 https://www.omahti.web.id/ |
-| **OmahTI Academy** | Web platform for an IT mini bootcamp program. Designed to manage content and provide a seamless digital learning experience. | 🌐 https://academy.omahti.web.id/ |
-| **Malam Apresiasi MIPA 2025** | Event website featuring voting functionality and structured information system for participants. | 🌐 https://www.malpres.com/ |
+| **OmahTI Academy** | Web platform for an IT mini bootcamp program. | 🌐 https://academy.omahti.web.id/ |
+| **Malam Apresiasi MIPA 2025** | Event website featuring voting functionality and structured information system. | 🌐 https://www.malpres.com/ |
 
 ---
 
