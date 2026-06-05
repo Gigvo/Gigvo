@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giganius Revo</h1>
-<h3 align="center">Computer Science Student at UGM | Frontend Developer</h3>
-
----
-
-## 👨‍💻 About Me
-
-🎓 Computer Science student passionate about building modern, scalable web applications.  
-🚀 Currently deepening my expertise in **Frontend Development**.  
-💡 I enjoy crafting clean UI, responsive design systems, and intuitive user experiences.  
-🛠️ Experienced in developing production-ready web platforms for real-world events and organizations.
+<h3 align="center">Computer Science Student at UGM</h3>
 
 ---
 
